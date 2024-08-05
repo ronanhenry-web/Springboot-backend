@@ -1,4 +1,4 @@
-<h1 align="left">Java et Vue.js / Objectif utiliser Vue.js et gérer la data des employées</h1>
+<h1 align="left">Projet Java et Vue.js / Objectif utiliser Vue.js et gérer la data des employées</h1>
 
 <h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application suivre les étapes suivantes :  
 
