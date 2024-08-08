@@ -7,7 +7,6 @@ Objectif utiliser Vue.js et gérer la data des employées
 Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
 
 - Cloner le projet
-- Avoir une BDD et suivre les consignes du fichier properties
 - Compiler le fichier main
 - Dans le dossier front lancer Vue.js :
   
